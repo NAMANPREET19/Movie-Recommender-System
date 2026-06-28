@@ -1,3 +1,4 @@
+LINK--  https://namanpreet19-movie-recommender-system-app-qklzbi.streamlit.app/
 # Movie Recommender System
 
 A content-based Movie Recommender System that recommends movies similar to a selected title using cosine similarity on movie metadata. The application is built with Python, Pandas, Scikit-learn, and Streamlit, and integrates with the TMDB API to fetch movie posters dynamically.
